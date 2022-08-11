@@ -1,0 +1,57 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "36aec44cf0ae9eee3c6372485bba35a3783b5a8f3ab19879dfde33cb72b0e040"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pyside6": {
+            "hashes": [
+                "sha256:58b824cb41d549a149a17786326f79a2fa46a1ce94e06397e78ea5707757b052",
+                "sha256:947185379c181d5e51b7b6bf2df8d8127c675ea57604d41265c67444d226db26",
+                "sha256:bc749968d641af1c516b6b0e00264bffea9cfc2d56dc04766f36e1a313e93a3a"
+            ],
+            "index": "pypi",
+            "version": "==6.3.1"
+        },
+        "pyside6-addons": {
+            "hashes": [
+                "sha256:14f4171b15dbdd7d120dc125c84f2eca53bc197182295bfdfdb3bb95b58a46c7",
+                "sha256:7a6bb180e41a4c599aa0e93d11e60570d0ebc79c197afccd9c227566dad5d5ef",
+                "sha256:9a933fac75c85bea3a9e31b24926e06b1afebae23cd164f10f2001999ea2692c"
+            ],
+            "markers": "python_version < '3.11' and python_version >= '3.6'",
+            "version": "==6.3.1"
+        },
+        "pyside6-essentials": {
+            "hashes": [
+                "sha256:55696693325a2de7bf5b56274b534f191032d218d61a948baa95933f6e642e59",
+                "sha256:e27962beb2cc45fe13a1a1c24a454c3c3c3c3082c4a84bc5dcf6b306979ba013",
+                "sha256:fa825c5396a5dfedf59635e904239187e2f2225c7f65917d4e973062c9a6b916"
+            ],
+            "markers": "python_version < '3.11' and python_version >= '3.6'",
+            "version": "==6.3.1"
+        },
+        "shiboken6": {
+            "hashes": [
+                "sha256:6393aa330101b098631a88dfb99b6b46794046c7f63b5c1ac93ae2fcef4773ff",
+                "sha256:aad9aa8e7ecd3c889cc789e41abf3990101126b5b02edfcf87f1ef331c9dc45a",
+                "sha256:cb9cf4ad858e59237642bf6b8be1fe6f19cb090799ff00e4c2643768d73e8ebe"
+            ],
+            "markers": "python_version < '3.11' and python_version >= '3.6'",
+            "version": "==6.3.1"
+        }
+    },
+    "develop": {}
+}

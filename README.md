@@ -4,6 +4,10 @@
   ☕ Code and coffee
 </h4>
 
+## Tutorial no YouTube
+
+https://www.youtube.com/watch?v=8pceqyDXG78
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

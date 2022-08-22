@@ -8,6 +8,11 @@
 
 https://www.youtube.com/watch?v=8pceqyDXG78
 
+## Instalador para Windows
+
+- [Baixe aqui o instalador](https://www.mediafire.com/file/qywp04xirqk3vt8/Instalador_Pedido.exe/file)
+
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
